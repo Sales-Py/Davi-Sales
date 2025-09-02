@@ -22,3 +22,5 @@ Este perfil é para registrar e compartilhar minha evolução na área de tecnol
 <p><img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Davi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></p>
 
+![Snake animation](https://github.com/Sales-Py/Sales-Py/blob/output/dist/snake.svg)
+
